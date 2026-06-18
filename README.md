@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Matthew Frazer!
+## Hi, I'm Matthew Frazer!
 
 - **Graduated from Lasell University May 2026 with a Major in Cybersecurity with a minor in Entrepreneurship**
 - **Passionate about AI, Cybersecurity, OSINT, and Internet Privacy**—always learning and coding, mainly in Python.
